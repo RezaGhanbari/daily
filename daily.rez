@@ -1,0 +1,26 @@
+Simulation {  
+  prj => sim with interupt;
+  exm => b;
+  speach =?> (a*Xn + c) [pseudo  random_number() ];
+}
+
+computational T {
+  sipser =?>  ()=> for d in year:  d.page read(10);
+}
+
+manage() {
+  sli();
+}
+
+main prj() {
+  web = ();
+  web.mining().with=?> using api;
+}
+
+python -> PSF;
+continue(web-crawler);
+
+$global=?> EXM
+foreach 4*d in $?range(4):  { lessons[d]->read().completely()}
+
+$?links
